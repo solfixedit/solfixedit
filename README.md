@@ -37,5 +37,5 @@ Driven by a strong growth mindset, I believe that **programming languages and fr
 ### 📫 Connect with Me
 
 - 📧 **Email:** [solfixedit@gmail.com](mailto:solfixedit@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile URL Here]
-- 📍 **Location:** Kitchener, ON, Canada
+- 💼 **LinkedIn:** [linkedin.com/in/sol-kwon]
+- 📍 **Location:** North York, ON, Canada
